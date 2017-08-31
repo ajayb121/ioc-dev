@@ -1,2 +1,4 @@
 # ioc-dev
-Project
+1) Clone Directory
+2) npm install
+3) npm start
